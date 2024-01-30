@@ -7,13 +7,13 @@
 The goal of our app is to combat the spread of fake news by providing users with a reliable tool to detect and verify the authenticity of news articles. We aim to empower users to make informed decisions about the information they consume and share.
 
 
-## What you will create
+## What we will create
 
-You will create a user-friendly mobile application that allows users to enter or paste the URL of an article and receive an analysis of its authenticity. The app will leverage AI and machine learning techniques to evaluate the credibility of the news source and the content of the article, providing users with an overall reliability score.
+we will create a user-friendly mobile application that allows users to enter or paste the URL of an article and receive an analysis of its authenticity. The app will leverage AI and machine learning techniques to evaluate the credibility of the news source and the content of the article, providing users with an overall reliability score.
 
-## What you will learn
+## What we will learn
 
-Throughout the development process, you will gain valuable knowledge and experience in:
+Throughout the development process, we will gain valuable knowledge and experience in:
 
 * Integrating Flutter as a frontend framework for building cross-platform mobile applications.
 * Building a Python-based backend server to handle user requests and process data.
