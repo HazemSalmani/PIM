@@ -1,6 +1,6 @@
 ![App FactFinder Banner](Images/nn.png)
 
-# FactFinder
+# FALS
 
 ## Our Goal
 
@@ -26,6 +26,7 @@ Throughout the development process, we will gain valuable knowledge and experien
 * Code refactoring.
 * Basic debugging.
 * Deploying the application to a cloud server or platform for users to access and utilize the fake news detection functionality.
+* Integrating Blockchain as a smart contract .
 
 
 ![End Banner](Images/Background.png)
